@@ -16,7 +16,7 @@ Machine translation is a critical application for businesses with global reach. 
 - **Review Generation**: Creates realistic product reviews with positive, neutral, or negative sentiment in English, Tamil, and Chinese
 - **Multi-Model Translation**: Translates content using three different models:
   - Claude 3.5 Haiku
-  - Amazon Nova Micra
+  - Amazon Nova Micro
   - Amazon Nova Lite
 - **Target Languages**: Translates to Russian, Hebrew, and German
 - **Comprehensive Evaluation**: Uses Claude 3.7 Sonnet as a judge to evaluate translations on:
@@ -34,7 +34,7 @@ Based on the evaluation results in the included CSV file:
 - **Weaknesses**: Highest latency (3-6 seconds on average), sometimes adds extra context
 - **Best for**: Critical translations where accuracy is paramount, especially complex language pairs
 
-### Nova Micra
+### Nova Micro
 - **Strengths**: Good balance of quality and speed (1-2 second latency), consistent performance
 - **Weaknesses**: Occasional minor mistranslations, slightly lower accuracy than Haiku
 - **Best for**: Most general-purpose translation needs with good quality requirements
