@@ -1,0 +1,7 @@
+,total_cost,total_cost,total_cost,total_cost,total_cost,input_cost,output_cost,cost_per_word,cost_per_quality_point,input_tokens,output_tokens
+,mean,sum,min,max,std,mean,mean,mean,mean,mean,mean
+model,,,,,,,,,,,
+Claude 3.5 Haiku,0.000373,0.003733,0.000307,0.000441,4.9e-05,3.5e-05,0.000338,4e-06,4.1e-05,141.8,270.3
+Meta llama maverick 17B,0.000331,0.003311,0.000289,0.000382,3.8e-05,6.5e-05,0.000266,3e-06,3.7e-05,161.8,166.5
+Nova Lite,0.000743,0.007432,0.000677,0.000833,5.3e-05,7.6e-05,0.000667,7e-06,9.1e-05,127.4,277.8
+Nova Micra,0.00043,0.004299,0.000378,0.000497,3.5e-05,4.5e-05,0.000385,4e-06,6.4e-05,127.4,275.2
